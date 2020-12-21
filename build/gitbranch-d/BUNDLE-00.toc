@@ -1,0 +1,3 @@
+([('gitbranch-d',
+   '/Users/wuyanxin/workspace/_mytools/gitbranch-d/dist/gitbranch-d',
+   'EXECUTABLE')],)
